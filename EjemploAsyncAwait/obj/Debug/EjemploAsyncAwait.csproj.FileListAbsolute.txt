@@ -1,0 +1,12 @@
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\bin\Debug\EjemploAsyncAwait.exe.config
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\bin\Debug\EjemploAsyncAwait.exe
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\bin\Debug\EjemploAsyncAwait.pdb
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\obj\Debug\EjemploAsyncAwait.csprojResolveAssemblyReference.cache
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\obj\Debug\EjemploAsyncAwait.exe
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\obj\Debug\EjemploAsyncAwait.pdb
+C:\Users\mamartin\Documents\Visual Studio 2013\Projects\EjemploAsyncAwait\EjemploAsyncAwait\bin\Debug\EjemploAsyncAwait.exe.config
+C:\Users\mamartin\Documents\Visual Studio 2013\Projects\EjemploAsyncAwait\EjemploAsyncAwait\bin\Debug\EjemploAsyncAwait.exe
+C:\Users\mamartin\Documents\Visual Studio 2013\Projects\EjemploAsyncAwait\EjemploAsyncAwait\bin\Debug\EjemploAsyncAwait.pdb
+C:\Users\mamartin\Documents\Visual Studio 2013\Projects\EjemploAsyncAwait\EjemploAsyncAwait\obj\Debug\EjemploAsyncAwait.csprojResolveAssemblyReference.cache
+C:\Users\mamartin\Documents\Visual Studio 2013\Projects\EjemploAsyncAwait\EjemploAsyncAwait\obj\Debug\EjemploAsyncAwait.exe
+C:\Users\mamartin\Documents\Visual Studio 2013\Projects\EjemploAsyncAwait\EjemploAsyncAwait\obj\Debug\EjemploAsyncAwait.pdb

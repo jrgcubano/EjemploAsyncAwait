@@ -1,0 +1,5 @@
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+c:\users\mamartin\documents\visual studio 2013\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
