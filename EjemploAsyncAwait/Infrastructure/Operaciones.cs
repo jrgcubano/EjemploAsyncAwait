@@ -40,10 +40,10 @@ namespace EjemploAsyncAwait.Infrastructure
 
         public async void EjecutarV2Async()
         {
-            var dosSegundosAsync = DosSegundosAsync();
-            var tresSegundosAsync = TresSegundosAsync();
+            var dos = DosSegundosAsync();
+            var tres = TresSegundosAsync();
 
-            var ints = await Task.WhenAll(dosSegundosAsync, tresSegundosAsync);
+            int[] ints = await Task.WhenAll(dos, tres);
 
             var suma = ints.Sum();
 
@@ -55,10 +55,10 @@ namespace EjemploAsyncAwait.Infrastructure
         [Obsolete]
         public async void EjecutarAsync()
         {
-            var dosSegundosAsync = await DosSegundosAsync();
-            var tresSegundosAsync = await TresSegundosAsync();
+            var dos = await DosSegundosAsync();
+            var tres = await TresSegundosAsync();
 
-            var suma = dosSegundosAsync + tresSegundosAsync;
+            var suma = dos + tres;
 
             Console.WriteLine("Resultado de la operación (EjecutarAsync): " + suma);
             ControlTiempo.Fin = DateTime.Now;
