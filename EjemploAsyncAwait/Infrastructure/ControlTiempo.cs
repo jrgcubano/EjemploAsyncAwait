@@ -8,15 +8,15 @@ namespace EjemploAsyncAwait.Infrastructure
         public static DateTime Inicio { get; set; }
         public static DateTime Fin { get; set; }
 
-        public static void MuestraInicio()
+        public static string VerInicio()
         {
-            Console.WriteLine("{0}. Thread inicial: {1}\r\n", Inicio, Thread.CurrentThread.ManagedThreadId);
+            return string.Format("{0}. Thread inicial: {1}\r\n", Inicio, Thread.CurrentThread.ManagedThreadId);
         }
 
-        public static void MuestraFin()
+        public static string VerFin()
         {
             var diferencia = Fin - Inicio;
-            Console.WriteLine("\r\n{0}. Thread final: {1}. Duración: {2}", ControlTiempo.Fin, Thread.CurrentThread.ManagedThreadId, (int)diferencia.TotalSeconds);
+            return String.Format("\r\n{0}. Thread final: {1}. Duración: {2}", ControlTiempo.Fin, Thread.CurrentThread.ManagedThreadId, (int)diferencia.TotalSeconds);
         }
     }
 }

@@ -8,13 +8,12 @@ namespace EjemploAsyncAwait
         static void Main()
         {
             ControlTiempo.Inicio = DateTime.Now;
-            ControlTiempo.MuestraInicio();
+            Console.WriteLine(ControlTiempo.VerInicio());
 
-            var operaciones = new Operaciones(true);
+            var operaciones = new Operaciones();
             operaciones.EjecutarV2Async();
 
-
-            Console.WriteLine("\r\nPulse la tecla intro para salir...\r\n");
+            Console.WriteLine("Pulse la tecla intro para salir");
             Console.ReadLine();
         }
     }
