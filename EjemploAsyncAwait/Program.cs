@@ -10,10 +10,11 @@ namespace EjemploAsyncAwait
             ControlTiempo.Inicio = DateTime.Now;
             ControlTiempo.MuestraInicio();
 
-            var operaciones = new Operaciones();
+            var operaciones = new Operaciones(true);
             operaciones.EjecutarV2Async();
 
-            Console.WriteLine("Pulse la tecla intro para salir");
+
+            Console.WriteLine("\r\nPulse la tecla intro para salir...\r\n");
             Console.ReadLine();
         }
     }
